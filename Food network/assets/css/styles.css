@@ -1,0 +1,84 @@
+@import url(https://fonts.googleapis.com/css2?family=Roboto:wght@100;200;300;400;500;600;800;900&display=swap);
+@import url(https://fonts.googleapis.com/css2?family=Philosopher:wght@100;200;300;400;500;600;700&display=swap);
+
+
+/*=============== VARIABLES CSS ===============*/
+:root {
+    --header-height: 3.5rem;
+    /*========== Colors ==========*/
+    --first-color: #DC780B;
+    --text-color: #150C01;
+    --text-black: #000000;
+    --footer-color: #252525;
+    /*========== Font and typography ==========*/
+    /*.5rem = 8px | 1rem = 16px ...*/
+    --main-font: "Roboto", sans-serif;
+    --second-font: "Philosopher", serif;
+    --h3-font-size: 1rem;
+    --h1-font-size: 2rem;
+
+}
+
+/*=============== BASE ===============*/
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+input,
+button {
+    border: none;
+    outline: none;
+    font-family: var(--main-font);
+    font-size: 16px;
+    background: transparent;
+}
+
+button {
+    cursor: pointer;
+}
+
+ul {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+    transition: color .2s;
+}
+
+p {
+    color: var(--text-color);
+    opacity: .7;
+    line-height: 1.5;
+    font-family: var(--main-font);
+    font-weight: 500;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+}
+
+/*=============== REUSABLE CSS CLASSES ===============*/
+
+/*=============== HEADER & NAV ===============*/
+
+/*=============== HOME ===============*/
+
+/*=============== FEATURED ===============*/
+
+/*=============== ABOUT US ===============*/
+
+/*=============== PHONE ===============*/
+
+/*=============== CONTACT ===============*/
+
+/*=============== FOOTER ===============*/

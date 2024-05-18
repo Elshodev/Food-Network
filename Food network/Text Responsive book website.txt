@@ -1,0 +1,182 @@
+========== HEADER ==========
+.nav__link
+home - features - about us - menu - contact us
+
+.nav__button
+Booking Now
+
+========== HOME ==========
+.home__title
+Making time a good time by making food the good food.
+
+.home__text
+There are many things are needed to start the Fast Food Business.
+You need not only Just Food Stalls with Persons but also specialized
+equipment.
+
+.home__buttons
+order now - food details
+
+========== FEATURES ==========
+.section__small-title
+Features
+
+.section__title
+Food with a New Passion
+
+.card__title
+Quality Food - Food Delivery - Super Taste
+
+.card__texts
+It can be a very secure path to earn good money and make you very
+successful creative entrepreneur.
+
+========== ABOUT US ==========
+.section__small-title
+About us
+
+.section__title
+Food Stalls with Persons but to Product marketing plane catlogues
+etc to.
+
+.about__text
+There are many things are needed to start the Fast Food Business.
+You need not only Just Food Stalls with Persons but also equipment
+make your marketing plane Effective.
+
+.about__btn
+Read More
+
+
+========== MENU ==========
+.section__small-title
+menu
+
+.section__title
+Food Full of treaty Love
+
+.menu__text
+There are many things are needed to start the Fast Food Business. You
+need not only Just Food Stalls with Persons but also specialized
+equipment, Skills to manage Customers
+
+.card__name-price
+Vegie Muffen - Salads - Burger - Delmonico Steak dish - Egg Masala - Peach Melba dish
+
+16$ - 12$ - 10$ - 14$ - 9$ - 15$
+
+.card__desc
+There are many things are needed to start the Fast Food Business.
+
+.menu__btn-outline
+Learn More
+
+========== PHONE ==========
+.section__small-title
+Take away
+
+.section__title
+Food Stalls with Persons but to Product marketing plane.
+
+.menu__text
+There are many things are needed to start the Fast Food Business.
+You need not only Just Food Stalls with Persons but also equipment
+make your marketing plane Effective.
+
+.app-store
+App Store
+
+.google-play
+Google Play
+
+========== CONTACT ==========
+.section__small-title
+Contact
+
+.section__title
+Food Stalls with Persons but also specialized equipment, Skills to
+manage.
+
+.contact__input
+Enter your message
+
+.contact__btn
+Send
+
+========== FOOTER ==========
+.footer__text
+www.turkistanTeam.com - TurkistanTeam@gmail.com - Phone: +998 90 123-45-67
+
+.footer__head
+Home - Menu - Company
+
+.footer__text
+Landingpage - Documentation - Referral Program - UI & UX Design - Web Design
+
+footer__title .footer__link
+About
+ Awards
+ FAQs
+ Privacy policy
+ Terms of services
+
+Company
+ Blogs
+ Community
+ Our team
+ Help center
+
+Contact
+ Av. Hacienda <br>
+ Lima 4321, Perú 
+
+ e.book@email.com <br>
+ 0987-654-321
+
+Social
+ https://www.facebook.com/
+ https://www.instagram.com/
+ https://twitter.com/
+
+.footer__copy
+&#169; All Rights Reserved By Bedimcode
+
+ <svg
+          width="1036.000000"
+          height="866.000000"
+          viewBox="0 0 1036 866"
+          fill="none"
+          xmlns="http://www.w3.org/2000/svg"
+          xmlns:xlink="http://www.w3.org/1999/xlink"
+        >
+          <desc>Created with Pixso.</desc>
+          <defs>
+            <linearGradient
+              x1="290.647888"
+              y1="302.621704"
+              x2="877.581421"
+              y2="847.699646"
+              id="paint_linear_2_406_0"
+              gradientUnits="userSpaceOnUse"
+            >
+              <stop stop-color="#DC780B" />
+              <stop offset="1.000000" stop-color="#DC780B" />
+            </linearGradient>
+          </defs>
+          <g opacity="0.100000">
+            <path
+              id="Vector 3"
+              d="M401.32 722.65C173.01 815.69 38.75 734.98 0.16 682.99L571.75 -0.08C731.36 73.18 1047.43 269.21 1034.81 467.33C1019.04 714.98 897.04 911.73 744.36 855.75C605.24 804.75 686.7 606.35 401.32 722.65Z"
+              fill="url(#paint_linear_2_406_0)"
+              fill-opacity="1.000000"
+              fill-rule="nonzero"
+            />
+            <path
+              id="Vector 3"
+              d="M401.32 722.65C686.7 606.35 605.24 804.75 744.36 855.75C897.04 911.73 1019.04 714.98 1034.81 467.33C1047.43 269.21 731.36 73.18 571.75 -0.08L0.16 682.99C38.75 734.98 173.01 815.69 401.32 722.65Z"
+              stroke="#DC780B"
+              stroke-opacity="1.000000"
+              stroke-width="1.000000"
+            />
+          </g>
+        </svg>
